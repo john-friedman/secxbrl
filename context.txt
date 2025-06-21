@@ -1,952 +1,952 @@
-{}
+{'_context_id': 'C_976cb2fa-c0f4-4377-97ee-6a238a88d18a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_instant': '2017-08-31'}
 
-{}
+{'_context_id': 'C_d6e1f007-0011-48f7-ba03-fa6380d851ff', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RestrictedStockUnitsRSUMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e5a69d6d-3244-4ec6-b445-4b96485ad1bc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_503b4c4d-7351-4275-9112-659690c1b2dc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ForeignJurisdictionsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_fdf9bd99-3f3a-415c-89d2-d2c692aedae1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:EmployeeStockOptionMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_82c1fc6e-63ef-47fa-b2b9-1b8583aa6826', 'context_entity_identifier': '0001318605', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_7bc1dd29-dc6b-4d05-8250-dc8d2001ecc9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeaseBackedCreditFacilitiesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_760c533f-e522-4a28-bebe-c7dca3be5b9f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_bd6699c6-d89b-40aa-8e8b-1523859a1e54', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_12a134b0-4241-4153-bf34-d3e9ae6e57fd', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_7824a1bc-6eb9-4293-92c6-4ad06f3aacc0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_e7227bc1-2cef-4648-8f2a-a24a70c0f240', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:PropertyPlantAndEquipmentNetMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_aafd98ad-74ae-45f0-b47d-fbaacad59144', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel1Member', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_76e78b7c-a42d-491c-92dc-448cfdb16588', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_startdate': '2019-05-01', 'context_period_enddate': '2019-05-31'}
 
-{}
+{'_context_id': 'C_a8ac48bb-9dbb-4fbe-938e-0cb1ac720d5c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SalesAndServicesMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_bc7c854f-b4f7-4a2e-9c3f-1fdb5fae0134', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarEnergySystemsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_e11a6268-1b82-4d91-a58c-49974164c71b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e51469da-8825-4a02-a3d8-eab00adc7dbc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AdditionalPaidInCapitalMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a984c2b0-6f50-498f-96fd-fe8e9cffe3d5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f3a7a236-0331-44e6-b2b6-73dbbaa789c8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSegmentMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_e75641d3-e0f1-4064-8575-e048792c205c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:StateAndLocalJurisdictionMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_3e74504e-e3e8-49e8-90e4-48840415a4eb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:EquipmentMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_51158026-8b85-4c16-a338-85d53caacd28', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a5cc7d29-754a-46c1-9c85-728ab0b1eeb6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AdditionalPaidInCapitalMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_81ab8253-2f17-4eab-8723-3b43609fe38a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_2d1f914f-118f-43bf-adf2-7b6b62d0655a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveRegulatoryCreditsMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_a9c86d44-9295-425e-88a6-858649341fe9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_353a15b3-0cc1-4146-a7e2-db87510216e1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ToolsDiesAndMoldsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_567174dd-9040-49ef-aa80-d229bc6e5fb5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CashEquityDebtMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_41783b31-94a7-4f26-8b5e-fa7427172a02', 'context_entity_identifier': '0001318605', 'context_period_instant': '2021-12-30'}
 
-{}
+{'_context_id': 'C_40d728ed-25b8-48b0-90cf-2ce7e37bc332', 'context_entity_identifier': '0001318605', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_a651ca2e-c391-4292-8b1f-7e9295ebc689', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CorporateDebtSecuritiesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_91d88d5d-b05c-4013-b29f-428d71924ea8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_6ca4cbd9-ce02-4c03-a0e4-7d429dce9cd4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CreditAgreementMember', 'context_period_startdate': '2015-06-01', 'context_period_enddate': '2015-06-30'}
 
-{}
+{'_context_id': 'C_be996d7e-19a3-47ac-b34f-eec0662678cd', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSalesWithResaleValueGuaranteeMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_b62034e8-e09a-4f10-bf50-fb1a92d0ec19', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_67635038-8aad-4c70-ab3f-2de23fbb11b5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SalesAndServicesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_258bfe3d-e78a-4f5c-9a61-e53c0261c180', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSalesWithResaleValueGuaranteeMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_8fa63c6c-5cab-4b7f-a697-d3b26eb287d6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndTwelvePerformanceAwardMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_ca31cc4f-44bd-4d5d-9a8d-9cb4b00a3da4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:US', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_b868318f-6013-41c4-bba7-746e35a91d37', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CreditAgreementMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_686efa55-7d63-4ee2-a2f2-a610f717ac4b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c0b372f1-bd15-44ee-925d-5064ccd002b9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccumulatedOtherComprehensiveIncomeMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_7f57c43f-e482-401d-8f5e-5a06fb5e7ad8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel2Member', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_dae772f0-24e8-450c-8787-2ddf1c89e998', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSegmentMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f661545b-a402-4801-91df-38bc1df77afb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:MayTwoThousandNineteenPublicOfferingMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_0a120b98-8e5f-4152-b1c4-f0432a400ac1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_d98b6922-572d-48fc-994a-aaebd8ef8687', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:CN', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c64b34a5-a4b4-434a-87ee-9c65047f96f3', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DeferredLeaseRevenueMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_274240cf-8acb-4629-aba8-73bd1cd8f0c8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_48703946-0b9b-4af7-bced-6625cd44b533', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:PropertyPlantAndEquipmentNetMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_dfce9dfd-2dc0-4034-91a8-65b487ad1579', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccumulatedOtherComprehensiveIncomeMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_ac72ff6e-1302-477f-a55d-fb62fc9321c9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveAssetBackedNotesMember', 'context_period_instant': '2021-03-31'}
 
-{}
+{'_context_id': 'C_60cdaaaf-e35a-4ac1-8e8d-e0397e932813', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DomesticCountryMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_1ea85976-1250-407f-b3e9-ec690d2153af', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:LeaseholdImprovementsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_7ea6c3ce-64a5-4fd4-b9cd-71c5bb56c177', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel3Member', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_d55cf0a8-bb3b-4df2-86e7-1a58d4b92687', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ConvertibleSeniorNotesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_fe402305-a6ea-4ec6-9ddc-3bb92abd469b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSalesMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_d8dc83d6-a3c6-4d97-b8f1-742aeadfdeeb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_1ad665f2-5b98-41ef-81e9-29a60e0302a5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SellingGeneralAndAdministrativeExpenseMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_a55ef6ec-7574-45cb-9627-51d61ef92cc4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e55f18c6-35ee-43b7-b2ef-ee8956379f0a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarAssetAndLoanBackedNotesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c46ebfd4-091c-431f-890c-f7a4125dd7c5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_5d2012c5-e3cf-4734-82ee-0493463a812d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarRevolvingCreditFacilityAndOtherLoansMember', 'context_period_startdate': '2021-04-01', 'context_period_enddate': '2021-04-30'}
 
-{}
+{'_context_id': 'C_3af27df7-1de8-4672-bed1-bf6f4775016f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-03-31'}
 
-{}
+{'_context_id': 'C_ba64f545-d975-49a3-b029-9fa4246db2e9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_55394ab0-bab4-4625-95b2-267b0ff3d35f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2020-06-01', 'context_period_enddate': '2020-06-30'}
 
-{}
+{'_context_id': 'C_58b3390a-76ec-402f-ada1-7459815511b1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndNineteenEquityIncentivePlanMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_22c504f6-119f-4db4-af3a-33c2b86b4f7b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel3Member', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a3a019d3-599d-48a7-b78f-da6470aa7af5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2020-06-01', 'context_period_enddate': '2020-06-30'}
 
-{}
+{'_context_id': 'C_2552a4b9-1a35-4ec2-86d0-ae50fa54fc71', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_3fc1b001-9784-46fd-9127-72d970110349', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel3Member', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_027f574b-61e3-4924-9bcb-d554fb51d9bc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CustomerAdvancePaymentsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_b30f743e-9369-4522-92d3-97ee1aeea1ef', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ServicesAndOtherMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_066732c9-66ef-47ab-9747-3e21d6a2b8b1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:UnitedStatesAndForeignJurisdictionsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_9caddc9b-f12c-483c-95a2-722c06c3d726', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_instant': '2022-03-31'}
 
-{}
+{'_context_id': 'C_93a98c24-3446-43f0-a1d6-1566974e9c41', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:NoncontrollingInterestMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f9215a23-8a29-49ec-91db-51db54d060ba', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8da5b347-ac1d-41ab-8bf4-7b3e95098ea4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarAssetBackedNotesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_3ef9f8c6-795a-437b-99b2-8cac89eca7cb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ConvertibleSeniorNotesMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_877f04c3-3222-41d5-9b8f-9f26b613a148', 'context_entity_identifier': '0001318605', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_f2d808d7-c3cd-460e-8daf-290bdee8e64c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:LandAndBuildingMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_77f33067-36e8-4fe1-91b9-bc8662a4a38c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSalesWithResaleValueGuaranteeMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_8a4a60b7-80aa-4871-a47a-d7690ce21ddb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RetainedEarningsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_74511f0b-b894-4348-b176-29287ee0d337', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2021-10-04', 'context_period_enddate': '2021-10-04'}
 
-{}
+{'_context_id': 'C_3bfc5625-9bc4-41a9-827a-91ee96d08970', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ResearchAndDevelopmentExpenseMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_6bf40dd5-43f5-4c73-99c9-589e325a37a4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_fd7e5f46-0fbb-4371-bb86-209a07419f3f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccountingStandardsUpdate201602Member', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_64a0b991-6afe-48a8-bee0-afd8fcff61e0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_1c1269b3-e086-45b9-a84f-f176bf7984cb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ComputerEquipmentAndSoftwareMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_93e2ca68-ad95-499e-938e-30e3077885b4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RedeemableNoncontrollingInterestsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_b7341067-9246-4675-a62f-168406ad1cb8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_377201aa-9524-4875-bb6a-e8760bda17f0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_ff99a4da-7811-4153-befa-cd4b39936de8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarEnergySystemsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_da44859b-c864-4258-9756-7ea2aedb0ff5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_5f76340b-1d8e-4346-9357-74ed3b36f56c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarCityMember', 'context_period_instant': '2016-12-31'}
 
-{}
+{'_context_id': 'C_d6f2b88b-26dd-4637-9f50-186403fda0f9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_startdate': '2019-05-01', 'context_period_enddate': '2019-05-31'}
 
-{}
+{'_context_id': 'C_80f4df26-59d2-4636-a9d4-ae75840694ff', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_777d6ad3-059e-4774-b502-ca1b4c62039f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarRevolvingCreditFacilityAndOtherLoansMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_6b8e1400-e8d5-42ec-81b0-4332a848fcad', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_c14269fc-5a31-45ad-88e9-43fb58ece970', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:US', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_3cb732e4-7e1d-41b6-9023-518a7e01f093', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarEnergySystemsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_1a622121-7baa-486a-88d1-0d6209283ecf', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointThreeSevenFivePercentSeniorConvertibleNoteDueTwentyTwentyTwoMember', 'context_period_instant': '2017-03-31'}
 
-{}
+{'_context_id': 'C_8abfc69f-9f94-45b6-8395-ad40e0ca3523', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveRegulatoryCreditsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_4a04d504-b2c6-4ec5-8b37-5ef80affe290', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:CN', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_66c57a9c-dfad-4b85-9fc8-4aac8fd677b2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSegmentMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_9e94bcb4-dee9-4a14-bb8a-3057a66e0284', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:OtherNoncurrentAssetsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_bb3c2e67-6ca1-485f-85f2-9add679a5c14', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_bce2dfeb-2aaf-43a7-a845-5e961baa2099', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccountingStandardsUpdate202006Member', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c13d598f-5868-49bd-97d7-417da10fe532', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeaseBackedCreditFacilitiesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_d7a8a258-f987-416f-83a6-906fd3fd9d3e', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2018-10-25', 'context_period_enddate': '2019-02-11'}
 
-{}
+{'_context_id': 'C_5f126816-1b71-4f9c-8a41-1df710ef446b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_c381f9f4-06c1-43a1-91b5-22a9b3622fab', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:BuildingAndBuildingImprovementsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8060cf4c-cf9a-4bcf-9e12-0ef75c04371d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RedeemableNoncontrollingInterestsMember', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_f63e47b6-ac2d-47b0-8772-b3b6e65891fa', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSegmentMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_ef0d25d0-5d88-486c-a039-df27b2e1999e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndEighteenPerformanceAwardMember', 'context_period_startdate': '2021-10-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_9c4b3c89-335b-40c4-a6ac-95c31324a5cc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSegmentMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f5fbf9e3-7974-4aaf-8c96-37726e08f1d8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DomesticCountryMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a7b3bc3d-3fdc-4687-996d-74e36580ce7b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarEnergySystemsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_961302a7-401f-4a68-9a15-08d9c7cbb555', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InternalRevenueServiceIRSMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e5c0504d-4de6-40bf-a204-453b2289e3a1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_cfcd2d75-83c5-46a8-86c1-f080ec376499', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RetainedEarningsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_9d882b57-c792-4cbe-b3fc-b7cb1c05f4d2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CashEquityDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_335fd1a3-c83a-4dd5-aade-4e4a29dfa009', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:StockBasedAwardsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_b915ea90-130c-44ac-a527-cfb06deb064f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:OtherIntangibleAssetsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_978450c4-003f-45bd-bc46-3a3696c9beb6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccountingStandardsUpdate201602Member', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_c3c25eff-4751-4234-a1cf-78794536469f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeasingMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_6fdf50c1-7c91-4c14-b6c4-e709cb142605', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveRevenuesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_f16edf95-3c03-4c8e-ab3d-b009189091e1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveAssetBackedNotesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_d1422bdf-e6de-43b0-9ba6-0db541af5eb7', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RestrictedStockUnitsRSUMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_91d3fd83-c348-47dd-8375-bd5568a0993d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_bae6b89d-012c-4639-b3ad-49711e152c22', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeasingMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_6387efce-6257-4e4a-9edc-888598b11088', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0e698072-0282-4ffc-82dc-03a992acdb0f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_7ca91a40-a80e-41a3-b16a-e4f9a022399c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:StockBasedAwardsMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_dafbb67a-a335-4148-b6e1-36dfa69ade7e', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2018-08-10', 'context_period_enddate': '2018-09-06'}
 
-{}
+{'_context_id': 'C_47fa4bc9-25ff-4baf-b540-47da9bf54c51', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_4a337861-8c14-40fe-9039-2daf68492f05', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSalesWithoutResaleValueGuaranteeMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_176d85ab-79e1-4ff8-8c3b-5d73f07bb97b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_instant': '2019-05-31'}
 
-{}
+{'_context_id': 'C_2839bbee-f682-4810-b87d-8a0a90665dac', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_ec53d0e7-db57-4f72-a003-b7e1762ed8d5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ShanghaiChinaMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_35f98844-1c0b-43e0-a600-d87f09b1eb96', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_0abb2938-68dc-4abf-a4c8-7f2f99c98829', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:GigafactoryTexasWithDelValleIndependentSchoolMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_361ec4ad-d45b-4d3d-944b-6c1b75a04308', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_34f03612-c2fb-462b-b550-8f691a946f7d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_e138bae2-72b7-4973-bf28-5fee8cae4d68', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CashEquityDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_cf9ddc57-d497-4b96-9f9a-19e8af749e18', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_ab01811c-db61-4630-81a5-c79f95d1164e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:MachineryEquipmentVehiclesAndOfficeFurnitureMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_9be61906-7522-449d-9885-b507b91181f2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OperatingLeaseVehiclesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_f5749fc4-a4c0-4012-aa63-1d03184e9cf1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:PerformanceBasedStockOptionMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_6d7726cc-3627-428d-9a42-fd6e28fe88c9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccumulatedOtherComprehensiveIncomeMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_ce00bf45-bad1-466f-81d9-5691ff06ee3c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:DE', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_4af49fbc-5780-4c0b-a1a3-146a3cae0f28', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_20970e5e-3f8c-4e4e-83ef-e262cb43d857', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RetainedEarningsMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_d9b07431-42e8-4fc4-99dc-ba651e610b51', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:EquipmentMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_a2315976-45a2-49ec-a06a-b7524b784700', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CustomerAdvancePaymentsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_345a79ed-6d42-41c5-bf77-861100d8e92f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccumulatedOtherComprehensiveIncomeMember', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_0dd4ca1d-42e6-4fef-beca-a789d9a1abd0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_56eb56e0-6bf5-4496-b8d7-d147c77d924c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_045ac223-337d-44c2-9c8c-b3fa7b5d5eb0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_1d88e074-2130-49c9-a13f-e60d2ab2d595', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_1509fe83-5717-4eeb-b312-e0704ff209cb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e898874a-f6ac-4a61-aa2a-f6be232da797', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2018-10-17', 'context_period_enddate': '2021-03-08'}
 
-{}
+{'_context_id': 'C_68749e47-a27c-40f0-8440-db38c8082fb9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_809e3515-3cb0-4fba-9d28-a03139dbe9c5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel1Member', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c736ddbe-3660-4889-bb01-4b73f98fb455', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_07f4b9f9-bc8f-43ef-ab1f-24c9c8650d00', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel3Member', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a68cf48a-335c-4474-bff7-79cfe12dce1b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_eedb544f-ca2a-4c09-81b6-8e19c9b3fd47', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AutomobilesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_06b64563-86e6-427f-9a3d-4e28d4f639c0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_93214ead-b4b2-48ad-9fc2-a62469d53263', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSegmentMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_2710f1f2-cd8a-4360-88db-1e6c318601d0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DevelopedTechnologyRightsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0e867430-dd72-4289-8b7c-6bd2f8e692f7', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_59b1f3d9-9004-45cd-ab2a-a804f6bca25b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndNineteenEquityIncentivePlanMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_351907b7-20ff-44ce-aa29-8816b976a6c9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:RevisionOfPriorPeriodAccountingStandardsUpdateAdjustmentMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_65f08996-69ae-4219-b9fe-3701233523e6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveAssetBackedNotesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_5afcd3ac-ef89-498e-a154-7c057cc497af', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_startdate': '2019-12-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_3ce66161-547b-4846-a58d-2b872e05f85a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_5dc9bf89-b1e9-4cbb-91e3-bca1330c35bc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_cc8fac6f-3cf7-44ab-8fb4-51c1ff02f6af', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_6ad3f031-499a-469a-8365-356a9ddc8ad0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c810daa5-0e13-4190-800d-01aba9ae25b6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ResearchAndDevelopmentExpenseMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_3c280774-17a8-4be2-ba19-da06b9dac82a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:OtherIntangibleAssetsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_63ca15dc-1543-4d24-a239-ef27407e6f05', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_148033f9-23f9-450a-a32a-dcf3a20305e1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_dca00382-a533-4709-a4d5-d88419f3ff06', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:EmployeeStockOptionMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_5b76cc23-2205-4e72-88d9-e413aa147244', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CostOfSalesMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_61830e82-5d8b-4769-b453-b244d9c4da41', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RestructuringAndOtherMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_10971b5b-408a-4634-912c-e753ae6719b4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_a00a45f5-29f7-47fc-9b3d-5f43b1d609dc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveRegulatoryCreditsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_3ebde710-ea24-40b2-a968-c1759d4b9faf', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:MachineryEquipmentVehiclesAndOfficeFurnitureMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_8d6fa1e3-07fd-41ad-9230-ea7de49e7780', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveRevenuesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c86b1b45-2c32-463d-bd06-da6c48ed2844', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_49f81d71-8c82-4396-804c-9d16bbcbe00a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ConvertibleSeniorNotesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_8119ff36-f7bd-486d-901a-2b7c0ca79a9d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_d3891b8c-0a78-470d-a151-3f38243de387', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CreditAgreementMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_cee6d113-92cc-462b-9cd0-7e42a00c1d7a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AdditionalPaidInCapitalMember', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_17b04f7c-6b65-452b-8907-24b2baa963e2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_instant': '2022-03-31'}
 
-{}
+{'_context_id': 'C_f2c6f275-8592-4f13-9994-29a6b3bbe61c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CreditAgreementMember', 'context_period_startdate': '2015-06-01', 'context_period_enddate': '2015-06-30'}
 
-{}
+{'_context_id': 'C_07d528ac-802d-4ebe-b94c-4404d31dd7b0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c5408ce6-e804-43ae-8ac9-d2a7b1142518', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:LeasePassThroughFinancingObligationMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_529d9416-440a-44b6-881f-cdde64057565', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarEnergySystemsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_abfed435-93c1-4c16-8678-8afcd64e8044', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:US', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_fc5924eb-5da5-4cc6-b76a-d8fdf610e586', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:MoneyMarketFundsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_224afb55-0e11-4243-be13-600045b97a2a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OtherInternationalMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0e381a61-3243-4a26-b394-f55ab9999909', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ComputerEquipmentAndSoftwareMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8e08ed9b-12bd-4d05-b731-3a5930d4b6a3', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:VariableInterestEntityPrimaryBeneficiaryMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e9979130-d4d0-4ca4-b841-cdcb05e24848', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:GigafactoryNevadaWaterRightsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_7b834d8a-64fa-431b-abc4-c30d969261f4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_startdate': '2019-12-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_4e1614a8-8dfa-4447-b290-f4b28957894d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:EmployeeStockOptionMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_47693633-2652-4cd9-b442-ae79b6cacac5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2012-08-01', 'context_period_enddate': '2012-08-31'}
 
-{}
+{'_context_id': 'C_14866344-391c-4234-bd18-a9d19a582e11', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_fd06e262-7e9b-477b-97b6-312f0fbcf6ce', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DevelopedTechnologyRightsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c9cc0e99-4673-48fb-8017-b4c3e0c754d0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_48ba96aa-24bb-4e20-a466-698aa691624f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DeferredLeaseRevenueMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_2eb3eed8-7dc1-4432-a084-eee937043c9e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AutomobilesMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_790a9710-31de-4c83-b109-a4e37066663d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel1Member', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c72a3351-f621-4399-a12a-295a4227747a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RestructuringAndOtherMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_5b9fc825-19a6-4d50-b507-97ffd27f2f4f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AdditionalPaidInCapitalMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_83e9ab83-a54b-461b-b96b-dec8ed18a602', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OtherCountriesMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_5ce2a6f1-cc44-4504-b3cd-d4659b523c5b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CashEquityDebtMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_5d23c6e6-14d0-4fd2-9734-6c9c285b2321', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CustomerAdvancePaymentsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_8db287e7-ceb5-4188-8da4-cdb7a87560f1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:RevisionOfPriorPeriodAccountingStandardsUpdateAdjustmentMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c8a2e452-d3e6-4bca-a3c2-fc8397775a0a', 'context_entity_identifier': '0001318605', 'context_period_instant': '2022-01-31'}
 
-{}
+{'_context_id': 'C_c1d16729-e226-4700-b54c-5a7c79f2ab5c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel2Member', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_c8512873-9838-42b5-9e37-6b03ba53133d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveAssetBackedNotesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_748ce1e2-449f-46a6-b187-c4eccbfb7d8a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndTwelveCeoPerformanceAwardMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_7fb8428f-8173-49d9-92f4-75f47c17afc9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarTermLoansMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_27d98f4d-5e5e-48dc-8a74-6e201dbdc368', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2022-01-01', 'context_period_enddate': '2022-03-31'}
 
-{}
+{'_context_id': 'C_39f13f23-8b9d-4b31-9c4e-08c2d69f035d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ConstructionInProgressMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a0158044-d9fd-48fe-8b96-bb468dbc6206', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeaseBackedCreditFacilitiesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_96c9ce25-67d5-4440-bb15-81c6326f68f2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_instant': '2020-05-31'}
 
-{}
+{'_context_id': 'C_bda60677-bfbf-4cdd-9b55-d1d9250f70ca', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DeferredLeaseRevenueMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_7252d015-b1fa-44b6-9ed4-1bd4814acf92', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_1b17f2b9-9621-4ef4-b42b-4dce392ea886', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_d161d641-1701-4993-82ff-706acb232873', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_instant': '2022-03-31'}
 
-{}
+{'_context_id': 'C_5449c3c9-9f78-4d5f-ad0a-26763bdb5eb3', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccumulatedOtherComprehensiveIncomeMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_13d17225-1a03-40e9-b7de-e40e4f636e7b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_dc607b42-13fd-4708-beee-d8ee0ec513eb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_7356bb6a-e6b8-48c4-b3ce-c8d4d0d5a5a5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0c8f01f1-3809-4a9e-807c-819c56ac628e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_ff2a18a2-3725-4d89-be62-1afbfd87ac00', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RetainedEarningsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f73c132f-e86b-40d9-a19b-a377011e30ea', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RestrictedStockUnitsRSUMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e86cb12d-0f54-4c28-9a6c-77b97a61cf0e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:LeaseholdImprovementsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_5277b825-08b3-4e5c-854a-88cbce271103', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SalesAndServicesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_1de69f73-df01-4830-8af0-0f11b469bc4a', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e06f160f-4928-4f92-8602-b91b09749248', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:NoncontrollingInterestMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_752e129e-a84b-4b30-b328-c5c5a448ee81', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:MachineryEquipmentVehiclesAndOfficeFurnitureMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_d9f82426-77df-48ec-af02-74184ccd32a0', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_c0054b75-a01e-49c7-a237-6ac7e9d39afe', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel1Member', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_2b82c5f5-0fc9-49bd-9812-472d81776798', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarAssetAndLoanBackedNotesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_434fc208-af36-4441-960f-5ad12b987de0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RetainedEarningsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_e45af9d1-80a4-4816-b11a-90d2ac5b88b8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:DE', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_83bc5652-4844-4f76-b05c-52a7d60afa0c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_41df569b-42a3-429a-bdde-fdadbbbbbd65', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:LawsuitInCourtOfChanceryOfStateOfDelawareByPurportedStockholdersOfTeslaChallengingSolarCityAcquisitionMember', 'context_period_startdate': '2016-09-06', 'context_period_enddate': '2016-10-05'}
 
-{}
+{'_context_id': 'C_5ed05f90-a953-4dd4-aca2-c636f9052943', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RetainedEarningsMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_8e866a9e-3554-4367-98c0-872eccf5e6b6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel1Member', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f0984ae6-5963-46b5-b8d6-5ced2958862d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_96161a17-3385-4839-998c-edd010fbacea', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OtherCountriesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_5cba16d8-d9bd-4b44-b9bc-0070206e60a0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:NoncontrollingInterestMember', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_bac771ff-4b4a-4d7e-bab8-7b6afab1018f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:LawsuitInCourtOfChanceryOfStateOfDelawareByPurportedStockholdersOfTeslaChallengingSolarCityAcquisitionMember', 'context_period_startdate': '2020-09-16', 'context_period_enddate': '2020-09-16'}
 
-{}
+{'_context_id': 'C_070d976b-5b63-45af-919d-8524e8053569', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RedeemableNoncontrollingInterestsMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_d0c8c4ac-6bab-431c-a380-9b2ac7a5a776', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_fccd8203-4413-4da4-9592-9897a2cbb735', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_instant': '2021-08-31'}
 
-{}
+{'_context_id': 'C_c9a62263-2cff-4ecf-adc4-9efb6ad2c182', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel1Member', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c8126e37-6667-404c-a085-99908c9afe9d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_22150a43-7027-4cf1-b4f5-435e8f0ff2d7', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CustomerAdvancePaymentsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_0d9ac5ca-0ce0-40b6-89ed-d2e602899d06', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_f38c7150-512d-43dc-a311-9e3ccd170d7e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:TradeNamesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_d9f84ad7-608c-4caf-9908-761da0b2ae7f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_95f012e6-152b-4774-af38-19fa9d657028', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_367e249b-7e17-47ed-b931-d672d680a031', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NinetyEightPercentApplicableConversionPriceMember', 'context_period_startdate': '2019-05-01', 'context_period_enddate': '2019-05-31'}
 
-{}
+{'_context_id': 'C_c4eab438-01ed-445a-b880-38a69463a73b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndFourteenEmployeePerformanceBasedStockOptionGrantsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_598f9c49-72c8-4134-9461-b90f3ebf1d27', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSegmentMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_35d75cbd-2432-415d-a089-67f8a21d545a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel3Member', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_27bed845-89a3-43d6-9643-1e6642a7253b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSegmentMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_8e3f997e-e2b0-4794-a458-e3d6250259b9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:RevisionOfPriorPeriodAccountingStandardsUpdateAdjustmentMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_e92afe00-3e43-401e-9d74-9cb94ec173c2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndFourteenEmployeePerformanceBasedStockOptionGrantsMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_305085b7-d250-4123-944b-c2906cd06ca4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RestrictedStockUnitsRSUMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_093f1a9a-2323-4464-8ce5-241364a08105', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_fbed6da5-1356-42b6-865b-22bd355fc39f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_b4f9aef0-b5e2-4e61-b1a9-16ca1909bd30', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_50482d76-42b8-49d7-b0c1-59e13e948829', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:UnitedStatesAndForeignJurisdictionsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_94295d84-9983-4e74-bc84-e6294229cd4c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_488547a5-272f-4b44-8063-6c7f2887d9a4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndNineteenEquityIncentivePlanMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_83e93b1b-ae2e-4176-9793-39fb1ec08a25', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:RetainedEarningsMember', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_4dca3c27-cb98-4d69-979f-ff28a1f7432b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_85987188-ac62-4afb-a6ed-9ec970de6cce', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c96ee445-2cfd-45c7-92a8-03e8ac66083b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeaseBackedCreditFacilitiesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_cd811d20-0023-4b09-84e1-5f4b837a4ff9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RedeemableNoncontrollingInterestsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_11fc8334-4945-419c-a79b-e50c52e8e143', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarEnergySystemsMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_17d8a501-5d85-4ae7-9ba5-bd725fd108a6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CostOfSalesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_cdc6a763-87ac-4902-8584-a4c6251367df', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:US', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_3a08eb1d-1272-41e1-b30e-90514e949362', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_startdate': '2017-08-01', 'context_period_enddate': '2017-08-31'}
 
-{}
+{'_context_id': 'C_edca3594-3497-44ba-b6f4-1993dc4c5b4f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:NoncontrollingInterestMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_9ffebfa3-2d31-4bdc-be3d-c8543aced722', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ComputerEquipmentAndSoftwareMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_0e71e8ea-59f3-4df2-8f47-11c4766b81a9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_9be3d352-e2b4-4197-8dcd-2694f798da71', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointThreeSevenFivePercentSeniorConvertibleNoteDueTwentyTwentyTwoMember', 'context_period_startdate': '2017-03-01', 'context_period_enddate': '2017-03-31'}
 
-{}
+{'_context_id': 'C_37d0ab71-577a-4263-88af-16864c377031', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeaseBackedCreditFacilitiesMember', 'context_period_startdate': '2021-06-01', 'context_period_enddate': '2021-06-30'}
 
-{}
+{'_context_id': 'C_ff89b5df-b10a-4450-a812-446497ed0287', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_startdate': '2017-03-01', 'context_period_enddate': '2017-03-31'}
 
-{}
+{'_context_id': 'C_b3005007-85a4-46d1-a8ec-d588983ed8ae', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CustomerAdvancePaymentsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_85a509a0-28a2-48d7-9d52-901d1b455215', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarAssetAndLoanBackedNotesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_53119c5b-9aec-404e-a9c3-caaf72992dad', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ServicesAndOtherMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_95f33c7c-07d8-420d-9654-a0946ae92aa0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_06b20eee-3bc5-47cf-99a1-ecd6ea754148', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:DirectorsAndOfficersMember', 'context_period_startdate': '2020-06-01', 'context_period_enddate': '2020-06-30'}
 
-{}
+{'_context_id': 'C_a68f1720-52d7-4be6-9271-31a99f91798f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_5b15c17f-a81d-4933-a689-3de48676df09', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CustomerAdvancePaymentsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a35080dc-1167-49e2-9a3d-6ed7b7ab7448', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:BuildToSuitLeaseArrangementMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_fc70364f-486f-4c77-adf7-854f772f57b3', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_c817f0b3-1830-48d4-a5c8-58664517b090', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_f5854e4a-77b9-461a-8a9d-551c1794b658', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_2ebe160c-0b89-4f63-a81b-a33e07804f72', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CorporateDebtSecuritiesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_40b3829d-7df7-4df1-9ebd-c699162ade48', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_53a567e9-3d19-4b74-bc01-71e3f6f8b23f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:StockBasedAwardsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_08c64347-2df7-4143-aae8-5e392ae54427', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f07452cc-3b91-4ea0-8807-017288faaa68', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarCityMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_bc831b5d-edd6-4208-b824-3106fb61bbcb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2018-03-01', 'context_period_enddate': '2018-03-31'}
 
-{}
+{'_context_id': 'C_8d9cc0fb-9132-47c4-930a-3518a59de937', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndFourteenEmployeePerformanceBasedStockOptionGrantsMember', 'context_period_startdate': '2014-12-01', 'context_period_enddate': '2014-12-31'}
 
-{}
+{'_context_id': 'C_22e54eb1-30eb-4610-a77d-fc5382e25393', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InternalRevenueServiceIRSMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e82f06d2-80ed-40a5-8973-74807b5f9292', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SellingGeneralAndAdministrativeExpenseMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_5b15a5da-95f9-45c2-bf1e-e81817eb02ad', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_9573522d-4d4b-4f7f-9408-04814a98963f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RestructuringAndOtherMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_0ce936f9-2c1f-4783-b02a-7efbb1fadd4b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_98b69e76-6021-44d3-ac23-f3b1fcd65d72', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_1625ad9c-054b-465b-b822-4c7a994a18f1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AdditionalPaidInCapitalMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_d062eae4-f8d5-4ea3-a3f9-601f12c3c152', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_5f83d1c4-977c-4167-ad7d-7f6020efc4f3', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:TradeNamesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e11bfc3e-a686-4051-98b9-9f8ce444fcf7', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:MoneyMarketFundsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_3943e0af-bd56-47e6-b00b-02d83fcf88a7', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8d2a9c8b-69a3-4e6e-b627-9623121a6d20', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a7027903-d37f-4e20-aea4-b23ff18713f9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccumulatedOtherComprehensiveIncomeMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_f3875d97-255e-48b5-922a-17c973f365f2', 'context_entity_identifier': '0001318605', 'context_period_startdate': '2021-03-01', 'context_period_enddate': '2021-03-31'}
 
-{}
+{'_context_id': 'C_5e87c2d3-d273-4c06-8aad-a3188d756fcf', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:GigafactoryTexasWithTravisMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_4153bd4c-dc4e-41c7-bb9d-f962932cfb88', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ResearchAndDevelopmentExpenseMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_a2dbadba-06ea-4bdc-9acd-a24a6b3ed545', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointThreeSevenFivePercentSeniorConvertibleNoteDueTwentyTwentyTwoMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e975d36d-37ad-4b05-a574-d1ccc9635b58', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:EmployeeStockOptionMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_15446e8b-529e-42cb-ae8d-c1b14c2f284a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSalesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_f343d247-da32-4fc6-966d-9416f9cd2856', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSalesWithoutResaleValueGuaranteeMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_d7a68760-b3e2-4757-ae2e-b0128e501221', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarTermLoansMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_5dcde991-78cc-4018-9244-497cd9054f60', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_641463ef-3ab4-4391-a99c-030bb41c4b02', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0f353f97-2ec3-4846-852b-f6d1ae880a0e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OperatingLeaseVehiclesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_73b9b850-8b4a-4896-b715-c4a262dbd515', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_30827539-cce5-4253-9ee4-0522cdee93c1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8cfa1f44-cbf1-4443-aee9-0a4be4253e58', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveAssetBackedNotesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_25b55de1-6ab8-4433-9644-ae17484dc277', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_f6f804dc-e9ae-4a39-8a6e-8cdbaa258dc9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0b0739be-1c3c-4194-bfad-6f53a782cf36', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OtherCountriesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_8dc55e49-ff4b-474e-ab32-d68314c88935', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:CN', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a4d1b7cf-a5a9-4e53-8864-8fa6f9d2b658', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_instant': '2019-05-31'}
 
-{}
+{'_context_id': 'C_128e25e9-7d90-4837-b8a2-8effd6859de7', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CorporateDebtSecuritiesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a4eb2e91-0d7a-4b56-8cf7-97bdf9b64587', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_8bd1bf43-b731-4388-b02d-82b2549ec890', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:VariableInterestEntityPrimaryBeneficiaryMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_066d9637-d2d6-46c3-9efd-bbfbfcc60d23', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:LandAndBuildingMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_b008fcc5-0a8d-4f85-bacf-ccd1f4b47e0f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2019-05-01', 'context_period_enddate': '2019-05-31'}
 
-{}
+{'_context_id': 'C_e1d85dd0-99a0-490c-9825-364b2c3c2449', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_77c6e50f-cb33-41e1-b28b-5b4ee53d19e6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_87fbe1e9-2bee-4983-969d-c2708bf2a88f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:MoneyMarketFundsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_37eb8348-f591-4ad7-86c2-356fb3a9731b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f60485a7-119c-4f86-b41c-c680e0030c09', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ComputerEquipmentAndSoftwareMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e056575c-72b9-4e09-aab8-a8a5f82997fc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:EmployeeStockMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_151f7880-e7cb-45eb-b1a8-f8c9069d7ba1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RebatesAndIncentivesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_d64f4286-3d1e-4e0b-9114-2f5b7567e62b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_d0a5e41d-c188-4706-aee9-a93138a0a935', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DeferredLeaseRevenueMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_1494ed3f-6d6b-4cf4-955b-d8801556019e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_92598c16-c869-4463-a3e6-2b8afcfb364e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:GigafactoryTexasWithTravisMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8d094e8e-c03d-46fd-af51-3d2e7ebd41aa', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSegmentMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_cade4e13-f214-4c5e-87f9-9c4e77387e90', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_0ed44be7-1c64-4901-98a0-17bb88cce380', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CostOfSalesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_2eb8fd6f-4d3c-4b98-8cd3-6f222262ef22', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndNineteenEquityIncentivePlanMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e12d737e-deab-40de-bb47-946b531a21a0', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e046c801-4c6a-48c1-b48f-a30525bd1ed8', 'context_entity_identifier': '0001318605', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_76edb567-481a-4314-bec6-12a49a353fbe', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_4e84b483-2589-4c40-84b9-69dc634fd45c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveAssetBackedNotesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-03-31'}
 
-{}
+{'_context_id': 'C_f7dc1448-a2f0-4790-90a2-94a3114cd9a7', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:CN', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_2c7a1eeb-1728-4aa9-a8d3-f28d3ea8e168', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:DeferredLeaseRevenueMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a1eac66d-317c-49f9-a697-d37e2e830c22', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FivePointThreeZeroPercentSeniorNotesDueTwentyTwentyFiveMember', 'context_period_startdate': '2021-08-01', 'context_period_enddate': '2021-08-31'}
 
-{}
+{'_context_id': 'C_c105470a-00e9-474d-b352-ba1652b770be', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c86dc4d2-593e-4870-90a8-5c24423f5a26', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8e1bb61b-d674-4210-b7a6-321b7d98eb47', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:DirectorMember', 'context_period_startdate': '2020-02-01', 'context_period_enddate': '2020-02-29'}
 
-{}
+{'_context_id': 'C_cb0d2bba-4483-40f5-96f9-5c5e78e93edb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ResearchFoundationMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_be05a2b8-5b94-489c-8283-b369770e67a7', 'context_entity_identifier': '0001318605', 'context_period_instant': '2021-01-01'}
 
-{}
+{'_context_id': 'C_a258b8bf-25a1-4a07-907c-af31fb22e1a9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RebatesAndIncentivesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8eea69d4-5eeb-4241-95a6-3fdf815f95bf', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_2dfb1790-c492-4510-8cac-dfc47c7b1545', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2019-05-31'}
 
-{}
+{'_context_id': 'C_d34193f8-13dd-44c3-a21b-20d30ec059d1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CreditAgreementMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_63e2f5ce-340b-4d4d-88b6-34ff24210dd1', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_e2f6fcd3-c011-49d3-85f7-114fa8568ff5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_afba39b3-bff9-4c14-bb8c-7ea5bf3a4571', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:MachineryEquipmentVehiclesAndOfficeFurnitureMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_59a6106d-21bb-44a3-aceb-d1baa8ed0091', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_53acb4ed-a909-4ebb-9faf-ef7de80a1e6b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ToolsDiesAndMoldsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c8698d16-18b6-4c64-b718-823b034a08af', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_e5631469-3f6a-4c33-87c0-52e7e608c955', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_422ea4aa-2cf2-42c3-b417-81de1ad811a2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:NoncontrollingInterestMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_44a2a651-5eb2-4cbd-bb81-a7215f779255', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_startdate': '2017-03-01', 'context_period_enddate': '2017-03-31'}
 
-{}
+{'_context_id': 'C_bfac50d1-f8c1-4e4d-aa6a-4e9fa3d6a0a9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:MayTwoThousandNineteenPublicOfferingMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_d9ca83a1-3f57-42dd-abed-33b996acbf74', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccumulatedOtherComprehensiveIncomeMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_621e7aa0-05af-49a9-b997-c16e9cca436c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_d801a096-a933-4720-8131-2beb65f928ed', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_b2b7eec5-9ab3-4b4b-adaf-0252858d3e7a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CommonStockMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_565581c0-d8b1-42e9-9705-5760116c1e20', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:EnergyGenerationAndStorageSalesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_6bd1286f-0f93-4625-8eb7-f6ff8f59c914', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SellingGeneralAndAdministrativeExpenseMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_98c26eee-00b0-4ad4-816c-c084d174e45b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_instant': '2018-03-31'}
 
-{}
+{'_context_id': 'C_9bc3744c-08cc-4563-a95d-eb2886244fe2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FavorableContractsAndLeasesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_3dfb8900-01a6-4f86-b754-c132bf27f470', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_31a44244-8b2a-4e00-95ec-879bb1ded164', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:GigafactoryNevadaWaterRightsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_3b69eaf0-92c6-4915-9363-8c15d5f4e83e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:GovernmentRebatesReceivablesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_540315c5-b332-447f-8709-94b69e1ca444', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MaximumMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0533533e-8c1c-4382-bfa2-bc2ed2a62a90', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:FairValueInputsLevel3Member', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_1ad78091-d029-48fa-8b42-8f6f6068ba92', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeasingMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_341c2311-fd2e-4817-bedf-b7fac6821061', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointThreeSevenFivePercentSeniorConvertibleNoteDueTwentyTwentyTwoMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0719c1c8-8120-4d33-b049-358e3ba5ec78', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:NonrecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_ee1ca378-1686-4c97-b7f7-1929c87cb008', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_38f8aa13-eef1-47e7-9c94-a0c096808b75', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_startdate': '2020-02-01', 'context_period_enddate': '2020-02-29'}
 
-{}
+{'_context_id': 'C_aac01b32-afc2-44da-bba8-338e5c4f53c4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CreditAgreementMember', 'context_period_startdate': '2015-06-01', 'context_period_enddate': '2015-06-30'}
 
-{}
+{'_context_id': 'C_f15590b0-38a9-4447-8b8e-23b90f79d5af', 'context_entity_identifier': '0001318605', 'context_period_instant': '2021-06-30'}
 
-{}
+{'_context_id': 'C_aa1f9a9b-b8e4-4f66-adec-2511e23af73a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_711f6b95-fa52-47af-8dae-0d43be0e58b8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:MoneyMarketFundsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_b6205506-f67e-48a6-b38f-6e7ce016a1f3', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_b9b3d3ee-abd7-4b8f-9a00-d83cab7b34cc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:GovernmentRebatesReceivablesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_4559af17-be6e-4b64-8028-5fde1d99becc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:CreditAgreementMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_2afe44c2-0233-493d-9497-98d1a33150cc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ServicesAndOtherMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_79509e7b-73b7-42b8-9ded-24d17f7b86b6', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RedeemableNoncontrollingInterestsMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_9ee7c279-24bc-4428-8eaf-c09e770f3dd5', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarCityMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_a8fa4098-ae41-4287-8e81-0eda587f795f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:SoftwareAndSoftwareDevelopmentCostsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_bfb024eb-56d8-44ba-8bb1-8bb4773ecb59', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarCityMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_db410842-7ff9-40d8-be8f-133c19908971', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RedeemableNoncontrollingInterestsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_5b23f7b6-a1bd-4592-8e2b-f167f4c91c64', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_920c9cb5-74ab-489d-8cf2-d6caf95a34a4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_6dd6fe9c-a5ad-4ca2-8695-ade0e5e36305', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveRevenuesMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_30df98c8-9945-45d0-9526-7a48fa4a6643', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:IndefiniteInProcessResearchAndDevelopmentMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_f746808e-73d0-4028-a3c4-b0db7744529b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AdditionalPaidInCapitalMember', 'context_period_instant': '2019-12-31'}
 
-{}
+{'_context_id': 'C_308e178e-509e-408a-8be3-7635ed351a7c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_ffd69997-d74f-4365-a1df-a529ca7910cc', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ConstructionInProgressMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_05e8f625-9798-413e-bda4-cd6e502459ac', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeaseBackedCreditFacilitiesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_b122ad0b-8680-46e6-8f0f-f93e65d6eff8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:RevisionOfPriorPeriodAccountingStandardsUpdateAdjustmentMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_3aa500bd-61f6-420f-aa85-f06d42d8a513', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AccountingStandardsUpdate201602Member', 'context_period_instant': '2018-12-31'}
 
-{}
+{'_context_id': 'C_20fd08b7-621c-4312-96b7-eaa500eb6730', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveSalesWithoutResaleValueGuaranteeMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f73ced2d-70fe-4a94-950f-d82d1cf7819e', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ConvertibleSeniorNotesMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_37e79a9f-086a-40e8-bb84-a995628da6ba', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OnePointTwoFivePercentSeniorConvertibleNoteDueTwentyTwentyOneMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_043daa62-d662-4f49-9d36-0779a2a80572', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RedeemableNoncontrollingInterestsMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_3f4cce88-e1c0-4021-9726-c063ed566356', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_fccff4d5-f23a-4914-b98f-5c9ad1337340', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_e9ee1da5-fedc-4a12-a638-e57e754b916b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:CumulativeEffectPeriodOfAdoptionAdjustmentMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_85cb38c1-6878-4bfc-afcd-61bc0aa99477', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:InterestRateSwapMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_8e5ffab5-9a4e-4a4c-9718-be0672cc66bb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_0a214075-cc33-4644-9002-dd3e5d74c1d4', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:ParentMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_0d0f407b-4fcb-4c18-81c6-46fc53adc9fb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:FavorableContractsAndLeasesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_0feb92df-18f8-4631-a649-1176393523f9', 'context_entity_identifier': '0001318605', 'context_entity_segment_typedmember_revenueremainingperformanceobligationexpectedtimingofsatisfactionstartdateaxis.domain': '2022-01-01', 'context_entity_segment_explicitmember': 'tsla:CustomerAdvancePaymentsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c1368fda-8c96-473f-95da-6ce40462c5d2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_23130956-9d27-4fa2-8ceb-713644d6a29c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:OtherInternationalMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_ab04290b-edee-44b3-959f-3c23f5d55593', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:OtherNoncurrentAssetsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_d00d38f2-138a-40c2-9cca-ff2a8a2a095d', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:NoncontrollingInterestMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_4dacb271-a53e-4c23-9937-3a430ec1024f', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_startdate': '2019-12-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_eb2832fb-00b7-4c2f-afca-c2408ef50b35', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarAssetAndLoanBackedNotesMember', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_0f3f0cce-0a23-4119-a307-e9c8c57c84b8', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_startdate': '2020-05-01', 'context_period_enddate': '2020-05-31'}
 
-{}
+{'_context_id': 'C_87235567-343e-445d-bbf8-cb9c64fda759', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:MinimumMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_7a76f873-c8a3-49d3-9715-266bfbc4d8ed', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndNineteenEquityIncentivePlanMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_338908b0-74c7-4c93-bc2d-535b0bddf4bb', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:AutomotiveLeaseBackedCreditFacilitiesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_ca3acbf9-6e84-4234-9042-e0324c392201', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:RecourseDebtMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_910e329d-1912-44ba-bd47-062639b09177', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndFourteenEmployeePerformanceBasedStockOptionGrantsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c15e09d0-f97c-48c8-a906-c83ff40377c2', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_startdate': '2019-01-01', 'context_period_enddate': '2019-12-31'}
 
-{}
+{'_context_id': 'C_7f61973c-1167-4756-ab18-e3e4231f837a', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AdditionalPaidInCapitalMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_29910ad9-31f2-455f-a8bd-cf3ff0636b59', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:RevisionOfPriorPeriodAccountingStandardsUpdateAdjustmentMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_d6fc21b4-e091-40d9-899d-7bf48294209c', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'srt:ChiefExecutiveOfficerMember', 'context_period_instant': '2018-03-31'}
 
-{}
+{'_context_id': 'C_a09ec053-3465-4cbe-92ba-851eb7fa11b9', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:BuildingAndBuildingImprovementsMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_edc96bde-d2d0-4c4d-b129-ff5b34949103', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:CorporateDebtSecuritiesMember', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_f3c3c03f-37b3-478e-9118-12a72fa499c3', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:CN', 'context_period_startdate': '2020-01-01', 'context_period_enddate': '2020-12-31'}
 
-{}
+{'_context_id': 'C_84282583-ead5-4f13-a0ef-f8f204562c9b', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:AutomobilesMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_f7a9c70a-578e-4546-9c60-1fad633b4706', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'us-gaap:NoncontrollingInterestMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_5d0284eb-c7bb-41a1-87e9-f5137ec0ea08', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarEnergySystemsMember', 'context_period_instant': '2021-12-31'}
 
-{}
+{'_context_id': 'C_eadabaa8-5100-41f2-a55c-2b0d38e8aede', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:ChinaLoanAgreementsMember', 'context_period_startdate': '2020-05-01', 'context_period_enddate': '2020-05-31'}
 
-{}
+{'_context_id': 'C_3352125b-7bfa-4f24-b614-c32ff048ea74', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'country:US', 'context_period_instant': '2020-12-31'}
 
-{}
+{'_context_id': 'C_b706242c-3c79-4076-9d89-ba1aeb4e3c91', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoPointZeroZeroPercentSeniorConvertibleNoteDueTwentyTwentyFourMember', 'context_period_startdate': '2019-05-01', 'context_period_enddate': '2019-05-31'}
 
-{}
+{'_context_id': 'C_59c142a1-63bf-4d25-b473-5de03c401f77', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:SolarCityMember', 'context_period_startdate': '2021-01-01', 'context_period_enddate': '2021-12-31'}
 
-{}
+{'_context_id': 'C_c0d667c6-c20a-4ccf-ad38-daa035a636de', 'context_entity_identifier': '0001318605', 'context_entity_segment_explicitmember': 'tsla:TwoThousandAndNineteenEquityIncentivePlanMember', 'context_period_instant': '2020-12-31'}
 
