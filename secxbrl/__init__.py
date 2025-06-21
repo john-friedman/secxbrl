@@ -1,0 +1,1 @@
+from .xbrl import parse_inline_xbrl

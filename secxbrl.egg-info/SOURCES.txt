@@ -1,0 +1,8 @@
+setup.py
+secxbrl/__init__.py
+secxbrl/xbrl.py
+secxbrl.egg-info/PKG-INFO
+secxbrl.egg-info/SOURCES.txt
+secxbrl.egg-info/dependency_links.txt
+secxbrl.egg-info/requires.txt
+secxbrl.egg-info/top_level.txt
