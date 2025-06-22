@@ -25,7 +25,7 @@ with open(path,'rb') as f:
     content = f.read()
 
 # parse data
-ix = parse_inline_xbrl(content)
+ix = parse_inline_xbrl(content) # can also use filepath
 with open('test.txt','w', encoding='utf-8') as f:
     f.writelines([str(item)+'\n\n' for item in ix])
 

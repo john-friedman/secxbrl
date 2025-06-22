@@ -49,7 +49,11 @@ def ix_node_to_dict(node):
     
     return result
 
-def parse_inline_xbrl(html_content):
+def parse_inline_xbrl(html_content=None,filepath=None,encoding='utf-8'):
+    if filepath:
+        with open(filepath,'r',encoding=encoding) as f:
+            html_content = f.read()
+
     parser = HTMLParser(html_content)
 
     
