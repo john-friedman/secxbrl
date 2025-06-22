@@ -51,17 +51,26 @@ def ix_node_to_dict(node):
 
 def parse_inline_xbrl(html_content):
     parser = HTMLParser(html_content)
+
     
     ix_nodes = []
     xbrl_nodes = []
 
     # First pass: collect all nodes
-    for node in parser.root.traverse():
+    count = 0
+    for node in parser.body.traverse():
+
+        # return if not inline xbrl
+        if count == 1:
+            if 'display:none' not in node.attributes.get('style',''):
+                return ix_nodes
+            
         tag = node.tag.lower()
         if tag and tag in ['ix:nonfraction', 'ix:nonnumeric']:
             ix_nodes.append(ix_node_to_dict(node))
         elif tag and tag == 'xbrli:context':
             xbrl_nodes.append(xbrl_node_to_dict(node))
+        count += 1
     
     # Create context lookup dictionary
     context_lookup = {ctx['_contextref']: ctx for ctx in xbrl_nodes}

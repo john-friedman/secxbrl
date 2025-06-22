@@ -2,9 +2,9 @@
 
 A python package to parse sec xbrl. Supports the [datamule](https://github.com/john-friedman/datamule-python) project.
 
-Intended to be fast & lightweight for the SEC use-case.
+Intended to be fast & lightweight for SEC inline XBRL. 
 
-Other People's XBRL Packages:
+Other People's XBRL Packages may be better for your use-case:
 * [tidyxbrl](https://github.com/cowboycodeman/tidyxbrl/)
 * [brel](https://github.com/BrelLibrary/brel)
 * [py-xbrl](https://github.com/manusimidt/py-xbrl/tree/main)
