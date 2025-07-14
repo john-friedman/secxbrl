@@ -1,5 +1,5 @@
 from selectolax.parser import HTMLParser
-
+import re
 
 # cribbed from doc2dict
 def walk(node):
@@ -66,7 +66,8 @@ def parse_inline_xbrl(html_content=None,filepath=None,encoding='utf-8'):
 
         # return if not inline xbrl
         if count == 1:
-            if 'display:none' not in node.attributes.get('style',''):
+            style = node.attributes.get('style', '').lower()
+            if not re.search(r'display\s*:\s*none', style):
                 return ix_nodes
             
         tag = node.tag.lower()
