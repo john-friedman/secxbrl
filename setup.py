@@ -5,7 +5,7 @@ with open("readme.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="secxbrl",
-    version="0.0.6",
+    version="0.0.7",
     description="A package to parse SEC XBRL",
     packages=find_packages(),
     install_requires=['selectolax'],
