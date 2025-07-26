@@ -36,7 +36,16 @@ def context_node_to_dict(node):
         
         if elem.text and elem.text.strip() and len(elem) == 0:
             key = '_'.join(current_path)
-            result[key] = elem.text.strip()
+            value = elem.text.strip()
+            
+            # Special handling for entity_segment_explicitmember
+            if key == 'entity_segment_explicitmember':
+                if key in result:
+                    result[key].append(value)
+                else:
+                    result[key] = [value]
+            else:
+                result[key] = value
         
         for child in elem:
             process_element(child, current_path)
@@ -45,7 +54,6 @@ def context_node_to_dict(node):
         process_element(child)
     
     return result
-
 def parse_extracted_xbrl(xml_content, filepath,encoding='utf-8'):
     if filepath:
         with open(filepath,'r',encoding=encoding) as f:

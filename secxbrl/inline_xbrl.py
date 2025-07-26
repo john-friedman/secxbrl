@@ -25,7 +25,16 @@ def xbrl_node_to_dict(node):
             if text_content is None or text_content == '':
                 prefix_stack.append(node.tag.split(':')[-1])
             else:
-                result['_'.join(prefix_stack)] = text_content
+                key = '_'.join(prefix_stack)
+                
+                # Special handling for context_entity_segment_explicitmember
+                if key == 'entity_segment_explicitmember':
+                    if key in result:
+                        result[key].append(text_content)
+                    else:
+                        result[key] = [text_content]
+                else:
+                    result[key] = text_content
         else:
             prefix = node.tag.split(':')[-1]
             if len(prefix_stack) > 0:
