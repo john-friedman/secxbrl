@@ -15,6 +15,13 @@ Other XBRL Packages may be better for your use-case:
 pip install secxbrl
 ```
 
+## `parse_inline_xbrl`
+```
+parse_inline_xbrl(content=None,filepath=None,encoding='utf-8',file_type='inline')
+```
+
+Takes content or filepath, and returns parsed xbrl. File type can be 'inline', e.g. from an inline xbrl html or htm document, or 'extracted_inline' from the xbrl file extracted from the html or htm document. This is usually named something like: tsla-20211231_htm.xml.
+
 ## Example
 ```
 from secxbrl import parse_inline_xbrl
@@ -25,7 +32,7 @@ with open(path,'rb') as f:
     content = f.read()
 
 # parse data
-ix = parse_inline_xbrl(content) # can also use filepath
+ix = parse_inline_xbrl(content)
 with open('test.txt','w', encoding='utf-8') as f:
     f.writelines([str(item)+'\n\n' for item in ix])
 
