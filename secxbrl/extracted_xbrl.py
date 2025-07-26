@@ -1,5 +1,18 @@
 import xml.etree.ElementTree as ET
 import re
+import html
+
+def html_to_text(html_content):
+    # First decode HTML entities like &#xA0; to regular characters
+    text = html.unescape(html_content)
+    
+    # Remove all HTML tags with regex
+    text = re.sub(r'<[^>]+>', '', text)
+    
+    # Clean up extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
+    
+    return text
 
 def extract_namespace_mapping(content):
     """Extract namespace prefix to URL mapping from root element"""
@@ -20,7 +33,7 @@ def content_node_to_dict(node, namespace_map):
     
     text = node.text
     if text:
-        result['_val'] = text
+        result['_val'] = html_to_text(text)
 
     result['_attributes'] = node.attrib
     result['_attributes']['name'] = get_prefixed_name(node.tag, namespace_map) 
