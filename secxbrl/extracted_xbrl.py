@@ -77,9 +77,12 @@ def parse_extracted_xbrl(xml_content, filepath,encoding='utf-8'):
     
     root = etree.fromstring(xml_content.encode(encoding), parser)
 
-    context_nodes = []
+    context_nodes = []  
     content_nodes = []
     for child in root:
+        if not isinstance(child.tag, str):
+            continue
+        
         tag_name = child.tag.split('}')[-1]
         if tag_name == 'context':
             context_nodes.append(child)
