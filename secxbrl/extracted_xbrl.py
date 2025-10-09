@@ -1,4 +1,4 @@
-import xml.etree.ElementTree as ET
+from lxml import etree
 import re
 import html
 
@@ -68,13 +68,14 @@ def context_node_to_dict(node):
     
     return result
 def parse_extracted_xbrl(xml_content, filepath,encoding='utf-8'):
+    parser = etree.XMLParser(recover=True, encoding=encoding)
     if filepath:
         with open(filepath,'r',encoding=encoding) as f:
             xml_content = f.read()
 
     namespace_map = extract_namespace_mapping(xml_content)
-
-    root = ET.fromstring(xml_content)
+    
+    root = etree.fromstring(xml_content.encode(encoding), parser)
 
     context_nodes = []
     content_nodes = []
