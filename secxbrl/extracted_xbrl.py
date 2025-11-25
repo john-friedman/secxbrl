@@ -35,7 +35,7 @@ def content_node_to_dict(node, namespace_map):
     if text:
         result['_val'] = html_to_text(text)
 
-    result['_attributes'] = node.attrib
+    result['_attributes'] = dict(node.attrib)  # Convert _Attrib to dict
     result['_attributes']['name'] = get_prefixed_name(node.tag, namespace_map) 
 
     return result

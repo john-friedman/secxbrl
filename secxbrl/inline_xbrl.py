@@ -54,7 +54,7 @@ def ix_node_to_dict(node):
     if text:
         result['_val'] = text
 
-    result['_attributes'] = node.attributes
+    result['_attributes'] = dict(node.attributes)
     
     return result
 
